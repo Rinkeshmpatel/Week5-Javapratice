@@ -1,0 +1,12 @@
+package `Data types`
+
+  public class Character {
+      public static void main (String args[])}{
+             int a = 12;
+             int b = 11;
+
+             boolean
+
+    System.out.println("Character is "+a);
+     }
+}
